@@ -8,7 +8,7 @@ package testrefactorizacion;
 /**
  *
  * @author usuario
- * Esta es la tarea II
+ * 
  */
 public class TestRefactorizacion {
 
