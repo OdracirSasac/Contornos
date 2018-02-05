@@ -9,7 +9,6 @@ package testrefactorizacion;
  *
  * @author usuario
  * Esta es la tarea II
- * Nuevo comentario
  */
 public class TestRefactorizacion {
 
