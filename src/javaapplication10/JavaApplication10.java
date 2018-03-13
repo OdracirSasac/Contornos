@@ -7,7 +7,7 @@ package javaapplication10;
 
 /**
  *
- * @author El menda
+ * @author El menda lerenda
  */
 public class JavaApplication10 {
 
